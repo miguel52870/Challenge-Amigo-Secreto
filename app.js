@@ -50,7 +50,10 @@ function sortearAmigo(){
         let indice = Math.floor(Math.random()*Amigos.length);//asigna una posicion aleatoria acorde al largo de la lista
         let nombreSorteado = Amigos[indice];//asigna el lombre de la lista de acuerdo a la posicion aleatoria
         let mostrarResultado = document.getElementById('resultado');
-        mostrarResultado.innerHTML = `El amigo secreto es: ${nombreSorteado}`;//muestra el nombre asignado de forma aleatoria
+        mostrarResultado.innerHTML = `El amigo secreto es: ${nombreSorteado}`;
+        document.getElementById('listaAmigos');//muestra el nombre asignado de forma aleatoria
+        Amigos = [];
+        document.getElementById('listaAmigos').innerHTML='';
     }
 }
 
