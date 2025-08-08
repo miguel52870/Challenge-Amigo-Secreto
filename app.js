@@ -42,7 +42,7 @@ function mostrarLista(){
 
 //función para sortear los amigos
 function sortearAmigo(){
-    if(Amigos.length === ''){
+    if(Amigos.length === 0){
         alert('por favor inserte al menos un nombre');
         return;
     }
