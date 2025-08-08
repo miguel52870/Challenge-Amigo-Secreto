@@ -9,7 +9,10 @@ Funcionalidades
 
 Cómo usar
 -Escribe un nombre en el campo de texto.
+![Añadir nombre](assets/Añadir-nombre.jpg)
 -Presiona el botón para agregar el nombre a la lista.
+![Lista de nombres](assets/lista-de-nombres.jpg)
 -Cuando quieras sortear, presiona el botón para seleccionar un amigo secreto de forma aleatoria.
 -El resultado se mostrará en la pantalla.
+![Nombre sorteado](assets/nombre-sorteado.jpg)
 
