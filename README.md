@@ -1,11 +1,11 @@
 -Se iniciará el challenge amigo secreto de allura, el objetivo es crear una aplicacion que permita al usuario 
-ingresar nombres de sus amigos y luego realizar un sorteo aleatorio para determinar quien es el amigo secreto.\
+ingresar nombres de sus amigos y luego realizar un sorteo aleatorio para determinar quien es el amigo secreto.
 
 Funcionalidades\
 -Agregar nombres a una lista.\
 -Mostrar la lista actualizada en pantalla.\
 -Seleccionar aleatoriamente un nombre de la lista como amigo secreto.\
--Validar que no se pueda agregar nombres vacíos ni sortear sin nombres.\
+-Validar que no se pueda agregar nombres vacíos ni sortear sin nombres.
 
 Cómo usar\
 -Clona o descarga este repositorio.\
@@ -15,5 +15,5 @@ Cómo usar\
 ![Lista de nombres](assets/lista-de-nombres.jpg)\
 -Cuando quieras sortear, presiona el botón para seleccionar un amigo secreto de forma aleatoria.\
 -El resultado se mostrará en la pantalla.\
-![Nombre sorteado](assets/nombre-sorteado.jpg)\
+![Nombre sorteado](assets/nombre-sorteado.jpg)
 
