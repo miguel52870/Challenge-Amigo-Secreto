@@ -40,5 +40,20 @@ function mostrarLista(){
     }
 }
 
+//función para sortear los amigos
+function sortearAmigo(){
+    if(Amigos.length === ''){
+        alert('por favor inserte al menos un nombre');
+        return;
+    }
+    else{
+        let indice = Math.floor(Math.random()*Amigos.length);//asigna una posicion aleatoria acorde al largo de la lista
+        let nombreSorteado = Amigos[indice];//asigna el lombre de la lista de acuerdo a la posicion aleatoria
+        let mostrarResultado = document.getElementById('resultado');
+        mostrarResultado.innerHTML = `El amigo secreto es: ${nombreSorteado}`;//muestra el nombre asignado de forma aleatoria
+    }
+}
+
+
 
 
