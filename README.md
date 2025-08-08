@@ -9,7 +9,7 @@ Funcionalidades\
 
 Cómo usar\
 -Clona o descarga este repositorio./
--Abre el archivo index.html en tu navegador ó ingresa a [text](https://miguel52870.github.io/Challenge-Amigo-Secreto/)./
+-Abre el archivo index.html en tu navegador ó ingresa a [Amigo Secreto](https://miguel52870.github.io/Challenge-Amigo-Secreto/)./
 -Escribe un nombre en el campo de texto.\
 ![Añadir nombre](assets/Añadir-nombre.jpg)\
 -Presiona el botón para agregar el nombre a la lista.\
