@@ -1,4 +1,4 @@
--Se iniciará el challenge amigo secreto de allura, el objetivo es crear una aplicacion que permita al usuario 
+-Se iniciará el challenge amigo secreto de alura, el objetivo es crear una aplicacion que permita al usuario 
 ingresar nombres de sus amigos y luego realizar un sorteo aleatorio para determinar quien es el amigo secreto.
 
 Funcionalidades\
